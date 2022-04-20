@@ -1,1 +1,1 @@
-export * from "./SystemProvider";
+export * from "./src/index";

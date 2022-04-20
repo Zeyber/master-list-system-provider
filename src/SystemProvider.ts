@@ -1,4 +1,4 @@
-import { ProviderOptions, Provider } from "master-list";
+import { ProviderOptions, Provider } from "@master-list/core";
 import * as os from "os";
 
 export interface SystemOptions extends ProviderOptions {
